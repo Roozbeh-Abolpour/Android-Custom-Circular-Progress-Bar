@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressBar">
+        <attr name="backColor" format="color"/>
+        <attr name="frontColor" format="color"/>
+        <attr name="lineColor" format="color"/>
+        <attr name="displayValue" format="boolean"/>
+        <attr name="name" format="string"/>
+    </declare-styleable>
+</resources>
